@@ -1,20 +1,14 @@
- 
 # Node.js dependencies
 node_modules/
-
 # Environment variables
 .env
-
-# Build output (frontend)
+# Frontend build output
 build/
-
 # Logs
 logs/
 *.log
-
 # Temporary files
 *.tmp
 *.swp
-
 # macOS junk
 .DS_Store
